@@ -1,0 +1,18 @@
+<resources xmlns:tools="http://schemas.android.com/tools"
+ xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+<string name="app_name">CoffeeLover</string>
+<string name="_0">0</string>
+<string name="order">order</string>
+<string name="quantity">QUANTITY</string>
+<string name="coffee" translatable="false">coffee</string>
+<string name="__2" translatable="false">2</string>
+<string name="order_summary" translatable="false">ORDER SUMMARY</string>
+<string name="toppings">TOPPINGS</string>
+<string name="wipped_cream">WIPPED CREAM</string>
+<string name="chocolate">CHOCOLATE</string>
+<string name="enter_your_name" translatable="false">ENTER YOUR NAME</string>
+<string name="thank_your">Thank You!</string>
+
+<string name="order_summary_name" >NAME <xliff:g id="name" example="Amy">%s</xliff:g></string>
+<string name="_100" translatable="false">100</string>
+</resources>
